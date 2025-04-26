@@ -16,7 +16,6 @@
 - `Object` 类：所有对象基类，提供统一编号系统
 - `Warrior` 类：士兵抽象基类（Dragon、Ninja、Iceman、Lion、Wolf）
 - `Headquarter` 类：指挥部管理士兵调度、生命元管理
-- `game.h` 文件：图形化绘制逻辑与界面跳转控制
 - `main.cpp` 文件：程序入口，初始化与流程控制
 
 ## 主要功能模块
